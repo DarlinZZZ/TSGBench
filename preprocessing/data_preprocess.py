@@ -72,6 +72,7 @@ for i in range(ori_data.shape[1]):
 window_all = []
 for i in range(ori_data.shape[1]):
     window_all.append(find_length(ori_data[:,i]))
+    print(i)
 
 seq_len = int(np.mean(np.array(window_all)))
 print(seq_len)
