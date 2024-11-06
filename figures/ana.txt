@@ -1,0 +1,6 @@
+accuracy in entire trend：MDD、ED、ACD。
+accuracy in detail：DTW、SD、KD、DS、PS。
+
+TIME SERIES: ACD , DTW
+
+VAE: MDD, ACD, DTW, DS, PS
